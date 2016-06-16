@@ -1,0 +1,6 @@
+c:\users\programacion\documents\visual studio 2013\Projects\ExaMonge\ExaMonge\bin\Debug\ExaMonge.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\ExaMonge\ExaMonge\bin\Debug\ExaMonge.exe
+c:\users\programacion\documents\visual studio 2013\Projects\ExaMonge\ExaMonge\bin\Debug\ExaMonge.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\ExaMonge\ExaMonge\obj\Debug\ExaMonge.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\ExaMonge\ExaMonge\obj\Debug\ExaMonge.exe
+c:\users\programacion\documents\visual studio 2013\Projects\ExaMonge\ExaMonge\obj\Debug\ExaMonge.pdb
